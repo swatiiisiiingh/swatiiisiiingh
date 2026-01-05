@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatiiisiiingh&label=Profile%20views&color=0e75b6&style=flat" alt="swatiiisiiingh" /> </p>
 
-- 🔭 I’m currently working on **CheckIT (An AR powered AI assistant for online shopping)**
+- 🔭 2nd year CSE major
 
-- 🌱 I’m currently learning **MERN Stack, Figma**
+- 🌱 Learning Web dev, Blockchain, UI/UX
 
 - 📫 How to reach me **swatisingh.cg@gmail.com**
 

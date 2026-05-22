@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatiiisiiingh&label=Profile%20views&color=0e75b6&style=flat" alt="swatiiisiiingh" /> </p>
 
-- 🔭 2nd year CSE major
+- 🔭 CSE major
 
-- 🌱 Learning Web dev, Blockchain, UI/UX
+- 🌱 Learning Web dev, Blockchain, UI/UX, System Design
 
 - 📫 How to reach me **swatisingh.cg@gmail.com**
 

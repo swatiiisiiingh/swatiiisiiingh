@@ -81,12 +81,12 @@ A webcam-based face-expression-to-music-mood generator. Reads your expression in
 ### 📊 GitHub Stats & Grind
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=swatiiisiiingh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Swati's GitHub Stats" height="165"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=swatiiisiiingh&theme=radical&hide_border=true" alt="Swati's Streak Stats" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatiiisiiingh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
 </p>
 
 ---

@@ -24,7 +24,7 @@ Pre-final year CSE undergrad @ VIT, currently obsessed with full-stack web dev a
 - 🌱 Leveling up in **System Design, UI/UX, and Blockchain**
 - 💼 Ex 2026 Summer Intern @ **NTPC/MUNPL** — built & deployed **OAMS**
 - 🎯 Hunting for my next **SWE Internship**
-- 📫 Reach me at **swatisingh.cg@gmail.com**
+- 📫 Reach me at **swati.socialpark@gmail.com**
 - 📄 Know more about me → [linkedin.com/in/swatiiisiiingh](https://www.linkedin.com/in/swatiiisiiingh)
 
 ---

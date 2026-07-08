@@ -81,7 +81,6 @@ A webcam-based face-expression-to-music-mood generator. Reads your expression in
 ### 📊 GitHub Stats & Grind
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=swatiiisiiingh&theme=radical&hide_border=true" alt="Swati's Streak Stats" height="165"/>
 </p>
 

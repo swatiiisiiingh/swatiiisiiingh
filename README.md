@@ -14,7 +14,7 @@
 
 `Full-Stack Code` + `AI Experiments` + `Real-World Deployments` = **Building things that actually go live.**
 
-Pre-final year CSE undergrad @ VIT, currently obsessed with full-stack web dev and sneaking AI into every project I can. Recently spent a summer inside an actual thermal power plant shipping a production system — turns out watching coal turn into electricity hits different when you're also debugging a SQL connection string at 11 PM. 🔌💻
+Pre-final year CSE undergrad, currently obsessed with full-stack web dev and sneaking AI into every project I can. Recently spent a summer inside an actual thermal power plant shipping a production system — turns out watching coal turn into electricity hits different when you're also debugging a SQL connection string at 11 PM. 🔌💻
 
 ---
 

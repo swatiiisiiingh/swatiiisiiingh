@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Yo! Swati this side
+#  Yo! Swati this side
 
 ### ⚡ Powering up code by day, chasing music-and-mood ideas by night — a CSE undergrad turning coffee, curiosity, and the occasional power-plant field trip into shipped software.
 

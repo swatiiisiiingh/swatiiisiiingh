@@ -20,9 +20,7 @@ Pre-final year CSE undergrad, currently obsessed with full-stack web dev and sne
 
 ### 🚀 Currently
 
-- 🔭 Building **full-stack + AI-powered web apps** for my portfolio
-- 🌱 Leveling up in **System Design, UI/UX, and Blockchain**
-- 💼 Ex 2026 Summer Intern @ **NTPC/MUNPL** — built & deployed **OAMS**
+
 - 🎯 Hunting for my next **SWE Internship**
 - 📫 Reach me at **swati.socialpark@gmail.com**
 - 📄 Know more about me → [linkedin.com/in/swatiiisiiingh](https://www.linkedin.com/in/swatiiisiiingh)
